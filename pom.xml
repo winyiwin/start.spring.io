@@ -26,24 +26,6 @@
 		<module>start-site</module>
 	</modules>
 
-	<profiles>
-		<profile>
-			<id>verification</id>
-			<modules>
-				<module>start-site-verification</module>
-			</modules>
-			<properties>
-				<skipTests>true</skipTests>
-			</properties>
-		</profile>
-		<profile>
-			<id>full</id>
-			<modules>
-				<module>start-site-verification</module>
-			</modules>
-		</profile>
-	</profiles>
-
 	<dependencyManagement>
 		<dependencies>
 			<dependency>

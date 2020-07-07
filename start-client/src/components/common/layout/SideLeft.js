@@ -66,19 +66,10 @@ const SideLeft = () => {
             <a
               rel='noreferrer noopener'
               target='_blank'
-              href='https://github.com/spring-io/start.spring.io'
+              href='https://github.com/winyiwin/start.spring.io.git'
             >
               <span className='a-content' tabIndex='-1'>
                 <IconGithub />
-              </span>
-            </a>
-            <a
-              rel='noreferrer noopener'
-              target='_blank'
-              href='https://twitter.com/springboot'
-            >
-              <span className='a-content' tabIndex='-1'>
-                <IconTwitter />
               </span>
             </a>
           </div>
